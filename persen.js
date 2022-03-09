@@ -1,7 +1,7 @@
 
 var to = 'AE ơi';
 var gift_url = 'https://www.facebook.com/13th7/';
-var gift_image_url = ' ./anhgai/anh-gai-xinh-1.jpg ';
+var gift_image_url = ' anh-gai-xinh-1.jpg ';
 
 
 
